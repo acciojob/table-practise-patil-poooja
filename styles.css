@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+table,tr,td{
+	border-width:1px;
+	border-color:black;
+	border-style:solid;
+}
